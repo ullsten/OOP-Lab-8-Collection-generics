@@ -6,6 +6,8 @@ using System.Text;
 using System.Threading.Tasks;
 
 namespace OOP_Lab_8___Collection_generics
+//Oskar Ullsten 820304
+//SUT 22-24
 {
     internal class Program
     {
