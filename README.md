@@ -22,7 +22,7 @@
     - [ ]  Efter varje rad eller element ska du skriva ut hur många items som finns kvar i stacken.
 - [ ]  Kolla om objekt nummer 3 finns i stacken eller inte och skriv ut resultatet.
 
-![Output av Del 1 - Stack](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/7adac547-4fbd-4b1e-b983-a0663c6fff19/Capturegsgrg.png)
+
 
 Output av Del 1 - Stack
 
@@ -33,3 +33,6 @@ Output av Del 1 - Stack
 - [ ]  Skapa ett villkor för att kolla om ett visst item finns i listan genom `Contains()-`metoden. Om den finns så skriv ut "Employee2 object exists in the list" i konsollen, else "Employee2 object does not exist in the list". (Employee2 är ett namn exempel ifall du söker efter det)
 - [ ]  Använd sedan `Find()-`metoden för att hitta och skriva ut det första objektet i listan som har `Gender = "Male"`.
 - [ ]  Använd sedan `FindAll()-`metoden för att hitta och skriva ut alla items i listan som har `Gender = "Male"`
+
+![image](https://user-images.githubusercontent.com/113597614/198851759-c600a14c-a4f5-474d-a591-068c667382d3.png)
+
