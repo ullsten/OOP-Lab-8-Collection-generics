@@ -21,6 +21,7 @@
     - [ ]  Hämta två objekt genom `Peek()-`metoden.
     - [ ]  Efter varje rad eller element ska du skriva ut hur många items som finns kvar i stacken.
 - [ ]  Kolla om objekt nummer 3 finns i stacken eller inte och skriv ut resultatet.
+- [ ]  
 Output av Del 1 - Stack
 ![image](https://user-images.githubusercontent.com/113597614/198851772-98a257d5-4be6-409d-a049-e3ebfc43c415.png)
 
