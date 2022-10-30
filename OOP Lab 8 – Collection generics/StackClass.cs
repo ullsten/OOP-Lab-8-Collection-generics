@@ -76,14 +76,9 @@ namespace OOP_Lab_8___Collection_generics
             Console.ForegroundColor = ConsoleColor.DarkGray;
             Console.WriteLine("Employees at work: " + EmpStack.Count);
             Console.ResetColor();
-            Console.WriteLine("-----------------------------------------------------------------------------------------------");
             Console.WriteLine();
-
-            Console.WriteLine("Tíme for employee interview using the peek method, who could it be?");
-            Console.ForegroundColor = ConsoleColor.DarkGray;
-            Console.WriteLine("(Employee still at work with peek method)");
-            Console.ResetColor();
-            Console.ReadKey();
+            Console.WriteLine("-----------------------------------------------------------------------------------------------");
+            Console.WriteLine("Tíme for employee interview using the peek method, who could it be? (employee still at work with peek method)");
             Console.ForegroundColor = ConsoleColor.DarkCyan;
             Console.WriteLine("Interview with: ");
             Console.ResetColor(); 
@@ -93,8 +88,8 @@ namespace OOP_Lab_8___Collection_generics
                 Console.Write(PeekEmployee);
                 Console.WriteLine("Items in stack: " + EmpStack.Count);
             }
-            Console.WriteLine("-----------------------------------------------------------------------------------------------");
             Console.WriteLine();
+            Console.WriteLine("-----------------------------------------------------------------------------------------------");
             Console.ForegroundColor = ConsoleColor.Blue;
             Console.WriteLine("Employee #3 is gone, looking around for her/he!");
             Console.ResetColor();
