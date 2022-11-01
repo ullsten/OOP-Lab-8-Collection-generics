@@ -28,8 +28,7 @@ namespace OOP_Lab_8___Collection_generics
                 this.Position,
                 this.Gender,
                 this.Age,
-                this.Salary);  
+                this.Salary);
         }
-    } 
-    
+    }
 }
